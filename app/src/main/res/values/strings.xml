@@ -1,0 +1,7 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_tab_home">title_tab_home</string>
+    <string name="title_tab_profile">profile\n</string>
+    <string name="title_tab_cart">profile\n</string>
+</resources>
